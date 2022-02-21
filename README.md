@@ -28,7 +28,8 @@ Requirements:
 
 Low level requirements:
 
-• Efficiency: the amount of time it takes to process an image. • Number of logic gates in the IC (2-input NAND gate) • Power: a measure of the average amount of power used while processing. • Energy: battery life (power x time) Metrics that are restricted • Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization • Made as many improvements as possible to the product Metrics can be limited as well as optimised.
+• Efficiency: the amount of time it takes to process an image. • Number of logic gates in the IC (2-input NAND gate) • Power: a measure of the average amount of power used while processing. • Energy: battery life (power x time) Metrics that are restricted • Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization • Made as many improvements as possible to the product Metrics can be limited as well as optimised.![image](https://user-images.githubusercontent.com/98839547/154888696-6d43531c-99e8-44d1-81fa-de490dec5e0f.png)
+
 
 High level Requirements:
 
